@@ -172,3 +172,42 @@ Pasos:
 1. 3 × A = 30, escribimos E y llevamos 3
 2. 3 × 2 + 3 (acarreo) = 9, escribimos 7
 
+
+Para complementar la información sobre operaciones básicas en sistemas numéricos binario, octal y hexadecimal, aquí hay algunos enlaces a videos útiles que ayudan a entender los procedimientos:
+
+## Sistema Binario
+
+### Suma Binaria
+- [Suma en sistemas: Decimal, Binario, Octal y Hexadecimal](https://www.youtube.com/watch?v=p9wZXDTf_2M)
+- [Aritmética binaria: suma, resta, multiplicación y división](https://www.youtube.com/watch?v=gAieLk1BjDY)
+
+### Resta Binaria
+- [Sistemas numéricos. Resta de binarios, octales y hexadecimales](https://www.youtube.com/watch?v=iFCQOLwKZjo)
+
+### Multiplicación y División Binaria
+- [Suma, resta, producto y división en binario](https://www.youtube.com/watch?v=uLulA91jt_A)
+
+## Sistema Octal
+
+### Suma y Resta Octal
+- [Suma octal - Método #1 - Ejercicio #1](https://www.youtube.com/watch?v=j_Ja5e2IK2c)
+- [Suma, resta, producto y división en base octal](https://www.youtube.com/watch?v=y-QzyNKs2Xs)
+
+### Multiplicación y División Octal
+- [División Octal, Suma, Resta, Producto y División en Hexadecimal](https://www.youtube.com/watch?v=FWOBMyk5s9c)
+
+## Sistema Hexadecimal
+
+### Suma y Resta Hexadecimal
+- [Suma, resta, producto y división en hexadecimal](https://www.youtube.com/watch?v=1xeJjcwT9pM)
+
+### Multiplicación y División Hexadecimal
+- [División Octal, Suma, Resta, Producto y División en Hexadecimal](https://www.youtube.com/watch?v=FWOBMyk5s9c)
+
+## Conversiones entre Sistemas
+
+- [Conversiones entre sistemas de numeración (Binario, octal y hexadecimal)](https://www.youtube.com/watch?v=o79EZsX6VjU)
+- [Cambio de bases entre Decimal, binario, octal y hexadecimal](https://www.youtube.com/watch?v=PyIYn8K9zZQ)
+- [Conversión de números entre Sistemas Numéricos - Técnica rápida](https://www.youtube.com/watch?v=QrULhy0P_uU)
+
+
