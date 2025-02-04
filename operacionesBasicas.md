@@ -205,4 +205,66 @@ Pasos:
 - [Cambio de bases entre Decimal, binario, octal y hexadecimal](https://www.youtube.com/watch?v=PyIYn8K9zZQ)
 - [Conversión de números entre Sistemas Numéricos - Técnica rápida](https://www.youtube.com/watch?v=QrULhy0P_uU)
 
+### Actividad
 
+1. Abrir un nuevo notebook en Google Colab.
+
+2. Copiar y pegar el siguiente código en una celda:
+
+```python
+def to_decimal(number, base):
+    return int(str(number), base)
+
+def from_decimal(number, base):
+    if base == 2:
+        return bin(number)[2:]
+    elif base == 8:
+        return oct(number)[2:]
+    elif base == 16:
+        return hex(number)[2:]
+    else:
+        return str(number)
+
+def calculate(num1, num2, operation, base):
+    n1 = to_decimal(num1, base)
+    n2 = to_decimal(num2, base)
+   
+    if operation == '+':
+        result = n1 + n2
+    elif operation == '-':
+        result = n1 - n2
+    elif operation == '*':
+        result = n1 * n2
+    elif operation == '/':
+        if n2 == 0:
+            return "Error: División por cero"
+        result = n1 // n2
+    else:
+        return "Operación no válida"
+   
+    return from_decimal(result, base)
+
+bases = {2: "Binario", 8: "Octal", 10: "Decimal", 16: "Hexadecimal"}
+
+while True:
+    print("\nCalculadora de Sistemas Numéricos")
+    for key, value in bases.items():
+        print(f"{key}: {value}")
+   
+    base = int(input("Seleccione la base numérica: "))
+    if base not in bases:
+        print("Base no válida")
+        continue
+   
+    num1 = input(f"Ingrese el primer número en base {base}: ")
+    num2 = input(f"Ingrese el segundo número en base {base}: ")
+    operation = input("Ingrese la operación (+, -, *, /): ")
+   
+    result = calculate(num1, num2, operation, base)
+    print(f"Resultado: {result}")
+   
+    if input("¿Desea realizar otra operación? (s/n): ").lower() != 's':
+        break
+
+print("¡Gracias por usar la calculadora!")
+```
