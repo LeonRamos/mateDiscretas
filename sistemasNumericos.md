@@ -112,15 +112,6 @@ Usado en programación y representación de direcciones de memoria.
 
 [Video: Conversiones entre Sistemas](https://www.youtube.com/watch?v=example5)
 
-### 8. Aplicaciones en Computación (15 minutos)
-
-- **Binario:** Representación interna de datos
-- **Octal:** Antiguamente usado en programación
-- **Hexadecimal:** Colores HTML, direcciones de memoria, depuración
-
-### 9. Conclusión y Repaso 
-
-Recapitulación de conceptos clave y su importancia en informática.
 
 ## Recursos Adicionales
 
