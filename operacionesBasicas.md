@@ -173,9 +173,7 @@ Pasos:
 2. 3 × 2 + 3 (acarreo) = 9, escribimos 7
 
 
-Para complementar la información sobre operaciones básicas en sistemas numéricos binario, octal y hexadecimal, aquí hay algunos enlaces a videos útiles que ayudan a entender los procedimientos:
-
-## Sistema Binario
+## Para complementar la información sobre operaciones básicas en sistemas numéricos binario, octal y hexadecimal, aquí hay algunos enlaces a videos útiles que ayudan a entender los procedimientos:
 
 ### Suma Binaria
 - [Suma en sistemas: Decimal, Binario, Octal y Hexadecimal](https://www.youtube.com/watch?v=p9wZXDTf_2M)
@@ -187,7 +185,6 @@ Para complementar la información sobre operaciones básicas en sistemas numéri
 ### Multiplicación y División Binaria
 - [Suma, resta, producto y división en binario](https://www.youtube.com/watch?v=uLulA91jt_A)
 
-## Sistema Octal
 
 ### Suma y Resta Octal
 - [Suma octal - Método #1 - Ejercicio #1](https://www.youtube.com/watch?v=j_Ja5e2IK2c)
@@ -195,8 +192,6 @@ Para complementar la información sobre operaciones básicas en sistemas numéri
 
 ### Multiplicación y División Octal
 - [División Octal, Suma, Resta, Producto y División en Hexadecimal](https://www.youtube.com/watch?v=FWOBMyk5s9c)
-
-## Sistema Hexadecimal
 
 ### Suma y Resta Hexadecimal
 - [Suma, resta, producto y división en hexadecimal](https://www.youtube.com/watch?v=1xeJjcwT9pM)
