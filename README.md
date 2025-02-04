@@ -2,8 +2,8 @@
 
 ## Temario
 
-1. [Sistemas Numéricos](sistemas_numericos.md)
-    - [Sistemas Numéricos (Binario, Octal, Decimal, Hexadecimal)](sistemas_numericos.md#introducción-a-los-sistemas-numéricos)
+1. Sistemas Numéricos
+    - [Sistemas Numéricos (Binario, Octal, Decimal, Hexadecimal)](sistemasNumericos.md)
     - [Conversiones entre Sistemas Numéricos](sistemas_numericos.md#conversión-decimal-a-binario)
     - [Operaciones Básicas (Suma, Resta, Multiplicación y División)](sistemas_numericos.md#ejercicios-prácticos)
     - [Aplicaciones en Computación](sistemas_numericos.md#aplicaciones-en-computación)
