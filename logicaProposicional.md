@@ -1,4 +1,5 @@
-# Lógica Proposicional: Fundamentos y Aplicaciones de las Proposiciones Simples y Compuestas  
+# Lógica Proposicional 
+## Fundamentos y Aplicaciones de las Proposiciones Simples y Compuestas  
 
 La lógica proposicional constituye la base del razonamiento matemático y computacional, operando como un sistema formal que analiza la estructura de enunciados declarativos mediante herramientas simbólicas. Su relevancia trasciende el ámbito académico, permeando disciplinas como la inteligencia artificial, la ingeniería de software y la teoría de circuitos. Este artículo explora los conceptos centrales de las proposiciones simples y compuestas, su funcionamiento en sistemas lógicos, y su impacto en escenarios profesionales y cotidianos, respaldado por evidencia teórica y casos prácticos[1][6][10].  
 
