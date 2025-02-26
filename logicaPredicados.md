@@ -41,7 +41,7 @@ Ejemplo: Si B(x) = "x sabe nadar", entonces:
 
 Explicación: Es como jugar a "verdadero o falso" con las frases que hemos creado.
 
-Para profundizar en estos conceptos, el artículo "Cuantificadores y razonamiento lógico en la vida cotidiana" del Blog de Matemáticas Aplicadas relaciona estos conceptos con situaciones del día a día, facilitando su comprensión.
+Para profundizar en estos conceptos, el artículo ["Cuantificadores y razonamiento lógico en la vida cotidiana"](https://dialnet.unirioja.es/descarga/articulo/6007724.pdf) del Blog de Matemáticas Aplicadas relaciona estos conceptos con situaciones del día a día, facilitando su comprensión.
 
 ## Recursos Adicionales para Ampliar Conocimientos
 
