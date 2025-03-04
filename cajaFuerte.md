@@ -1,9 +1,10 @@
 # Caja Fuerte
-
 Este proyecto proporciona una plataforma interactiva y visual para que los estudiantes exploren los conceptos del álgebra booleana en un contexto práctico y relevante.
 
-´´´
-#include <LiquidCrystal.h>
+Código Arduino:
+
+```cpp
+#include 
 
 // Pines para los pulsadores
 const int buttonPins[4] = {2, 3, 4, 5};
@@ -67,18 +68,18 @@ void loop() {
   
   delay(100);
 }
-´´´
+```
 
 Este proyecto cubre los siguientes aspectos del álgebra booleana:
 
-Fundamentos: Implementa operaciones AND, OR y XOR usando los estados de los botones.
+1. Fundamentos: Implementa operaciones AND, OR y XOR usando los estados de los botones.
 
-Teoremas y postulados: Demuestra la ley de De Morgan.
+2. Teoremas y postulados: Demuestra la ley de De Morgan.
 
-Optimización de expresiones booleanas: Muestra una función de acceso sin optimizar y su versión optimizada.
+3. Optimización de expresiones booleanas: Muestra una función de acceso sin optimizar y su versión optimizada.
 
-Minitérminos: La función de acceso se basa en minitérminos específicos (combinaciones correctas).
+4. Minitérminos: La función de acceso se basa en minitérminos específicos (combinaciones correctas).
 
-Representación de circuitos lógicos: El sistema completo actúa como un circuito lógico combinacional.
+5. Representación de circuitos lógicos: El sistema completo actúa como un circuito lógico combinacional.
 
-Métodos de simplificación: La función optimizada simula el resultado de aplicar un mapa de Karnaugh.
+6. Métodos de simplificación: La función optimizada simula el resultado de aplicar un mapa de Karnaugh.
