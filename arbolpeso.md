@@ -1,4 +1,4 @@
-Los árboles con peso se refieren a estructuras donde cada nodo tiene un valor asociado (peso) y el peso total del árbol es la suma de estos valores. Sin embargo, en el contexto de estructuras de datos, el "peso" también puede referirse al número total de nodos en el árbol[1][2]. Implementaremos ambas interpretaciones.
+Los árboles con peso se refieren a estructuras donde cada nodo tiene un valor asociado (peso) y el peso total del árbol es la suma de estos valores. Sin embargo, en el contexto de estructuras de datos, el "peso" también puede referirse al número total de nodos en el árbol. Implementaremos ambas interpretaciones.
 
 ## Implementación de un árbol con peso en Python
 Crearemos un árbol binario con métodos para calcular su peso (cantidad de nodos) y realizar recorridos:
@@ -74,20 +74,20 @@ print("\nPeso total del árbol:", arbol.peso(arbol.raiz))
 ## Explicación paso a paso
 1. **Estructura del Nodo**:
    - Cada nodo almacena un valor y tiene referencias a sus hijos izquierdo y derecho
-   - Constructor inicializa con `valor` y hijos `None`[4]
+   - Constructor inicializa con `valor` y hijos `None`
 
 2. **Inserción de valores**:
    - Método `insertar` maneja la raíz
-   - `_insertar_recursivo` ordena valores menores a la izquierda y mayores/iguales a la derecha[6]
+   - `_insertar_recursivo` ordena valores menores a la izquierda y mayores/iguales a la derecha
 
 3. **Cálculo de peso**:
    - Función recursiva que suma 1 (nodo actual) + peso subárbol izquierdo + peso subárbol derecho
-   - Caso base: nodo `None` retorna 0[1][2]
+   - Caso base: nodo `None` retorna 0
 
 4. **Recorridos**:
    - **Preorden**: Raíz → Subárbol izquierdo → Subárbol derecho
    - **Inorden**: Subárbol izquierdo → Raíz → Subárbol derecho
-   - **Postorden**: Subárbol izquierdo → Subárbol derecho → Raíz[3][5]
+   - **Postorden**: Subárbol izquierdo → Subárbol derecho → Raíz
 
 ## Resultado esperado en Google Colab
 ```
@@ -103,5 +103,5 @@ Para el árbol creado con valores [15, 10, 20, 8, 12,6]:
 - **Preorden** comienza en la raíz (15), luego izquierda completa antes de derecha
 - **Inorden** muestra valores ordenados
 - **Postorden** procesa hijos antes que raíces
-- **Peso** cuenta 7 nodos (1 raíz + 3 izquierdos + 3 derechos)[6]
+- **Peso** cuenta 7 nodos (1 raíz + 3 izquierdos + 3 derechos)
 
